@@ -11,7 +11,7 @@
 - プロジェクターに移してできるか試す
 - ちゃんとゲームっぽくする
 
-### Git, Git hubの使い方について
+# Git, Git hubの使い方について
 https://www.youtube.com/watch?v=Dz95iUNt-fg&list=TLPQMzEwODIwMjTqT2_CF9aA1A&index=2
 
 ↑
