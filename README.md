@@ -30,8 +30,8 @@ https://www.youtube.com/watch?v=Dz95iUNt-fg&list=TLPQMzEwODIwMjTqT2_CF9aA1A&inde
 
 # 共同で開発を進めるためにしてほしいこと
 ## 最初にやること
-  - [GitHub][https://github.co.jp/]のアカウントを作る
-  - [VSCode][https://code.visualstudio.com/download]をダウンロードする
+  - [GitHub](https://github.co.jp/)のアカウントを作る
+  - [VSCode](https://code.visualstudio.com/download)をダウンロードする
 
 
 1. <>code ってところからzipファイルをダウンロード
