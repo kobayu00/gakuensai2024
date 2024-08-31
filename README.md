@@ -1,4 +1,9 @@
-***作業する方法についてはこの文素の最後の項を参考に！！***
+***最初にやってほしいこと！！***
+
+  - [GitHub](https://github.co.jp/)のアカウントを作る
+  - [VSCode](https://code.visualstudio.com/download)をダウンロードする
+# GitHubで開発を進める方法
+
 
 # gakuensai2024の目的
 
@@ -28,32 +33,8 @@ https://www.youtube.com/watch?v=Dz95iUNt-fg&list=TLPQMzEwODIwMjTqT2_CF9aA1A&inde
 
 ここで開発進めていきましょう、各自ファイル作ってもらってもおけです。
 
-# 共同で開発を進めるためにしてほしいこと
-## 最初にやること
-  - [GitHub](https://github.co.jp/)のアカウントを作る
-  - [VSCode](https://code.visualstudio.com/download)をダウンロードする
 
 
-1. <>code ってところからzipファイルをダウンロード
-1. 解凍してこのリポジトリを自分のPCの好きな場所に入れる
-1. 入れた場所でターミナルを開く
-
-~~~
-cd <さっき入れたフォルダの名前>)
-~~~
-
-1. リモートのリポジトリと、ローカルのリポジトリを表示
-~~~
-git branch -a
-~~~
-
-1. リモートのブランチをローカルのブランチに反映する
-~~~
-git pull
-~~~
-
-1. 新しいブランチを作ってブランチを切り替える
-~~~
 git checkout -b feature/add_profile_page
 ~~~
 
