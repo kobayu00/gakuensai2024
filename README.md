@@ -1,4 +1,4 @@
-作業する方法については"houtodevelop.md"の手順を参考に！！
+***作業する方法については"howtodevelop.md"の手順を参考に！！***
 
 # gakuensai2024の目的
 
