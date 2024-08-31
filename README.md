@@ -10,6 +10,8 @@
 - 対戦できるようにする
 - プロジェクターに移してできるか試す
 - ちゃんとゲームっぽくする
+- 可愛くする
+- 音とかつける
 
 # Git, Git hubの使い方について
 https://www.youtube.com/watch?v=Dz95iUNt-fg&list=TLPQMzEwODIwMjTqT2_CF9aA1A&index=2
